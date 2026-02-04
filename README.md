@@ -1,7 +1,5 @@
 # stopwatch
-under making rn
-
-
+under making right now
 
 <br>
 Tell me if the UI looks clean tho?
